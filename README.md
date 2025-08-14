@@ -1,8 +1,7 @@
-Heart Disease Prediction using Machine Learning
-
+# Heart-Disease-Prediction-Using-Machine-Learning
 Heart disease is a leading cause of death worldwide, making early detection and prevention critical. Data-driven prediction systems can significantly improve diagnosis accuracy and assist in timely intervention. Machine Learning offers powerful tools to build such systems, delivering accurate and scalable predictions.
 
-In this project, I analyzed the UCI Heart Disease Dataset (available here) and performed extensive data preprocessing, feature engineering, and exploratory data analysis. Multiple machine learning algorithms were trained and evaluated to predict the presence of heart disease based on various patient health parameters.
+In this project, I analyzed the UCI Heart Disease Dataset and performed extensive data preprocessing, feature engineering, and exploratory data analysis. Multiple machine learning algorithms were trained and evaluated to predict the presence of heart disease based on various patient health parameters.
 
 Algorithms Implemented:
 
