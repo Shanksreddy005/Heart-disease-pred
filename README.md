@@ -35,4 +35,4 @@ Developed using Python in a Jupyter Notebook (Binary Classification with Sklearn
 
 Technologies Used: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost, Keras.
 
-🔗 Kaggle Notebook: Binary Classification with Sklearn and Keras
+Dataset used: https://www.kaggle.com/ronitf/heart-disease-uci
